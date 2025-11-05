@@ -7,8 +7,6 @@ Two figures were reproduced from the intial paper in order to validate the piepl
 
 ## Requirements
 
-R (>= 4.0 recommended)
-
 Packages: Seurat, SeuratWrappers, tidyverse, ggplot2, DoubletFinder, devtools, SeuratWrappers, Harmony (or HarmonyIntegration wrapper via SeuratWrappers), presto (installed from GitHub), SingleR, celldex, SummarizedExperiment, patchwork
 
 ## Inputs
